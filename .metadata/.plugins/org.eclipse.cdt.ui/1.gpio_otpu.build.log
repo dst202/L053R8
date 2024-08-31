@@ -1,0 +1,10 @@
+13:12:58 **** Incremental Build of configuration Debug for project 1.gpio_otpu ****
+make -j12 all 
+arm-none-eabi-size  1.gpio_otpu.elf 
+   text	   data	    bss	    dec	    hex	filename
+  10208	     12	   1708	  11928	   2e98	1.gpio_otpu.elf
+Finished building: default.size.stdout
+ 
+
+13:12:58 Build Finished. 0 errors, 0 warnings. (took 348ms)
+

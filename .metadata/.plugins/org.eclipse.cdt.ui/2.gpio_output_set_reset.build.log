@@ -1,0 +1,10 @@
+13:17:55 **** Incremental Build of configuration Debug for project 2.gpio_output_set_reset ****
+make -j12 all 
+arm-none-eabi-size  2.gpio_output_set_reset.elf 
+   text	   data	    bss	    dec	    hex	filename
+  10184	     12	   1708	  11904	   2e80	2.gpio_output_set_reset.elf
+Finished building: default.size.stdout
+ 
+
+13:17:56 Build Finished. 0 errors, 0 warnings. (took 351ms)
+

@@ -1,0 +1,10 @@
+20:53:25 **** Incremental Build of configuration Debug for project 5.stv2_debug ****
+make -j12 all 
+arm-none-eabi-size  5.stv2_debug.elf 
+   text	   data	    bss	    dec	    hex	filename
+  13032	     92	   2036	  15160	   3b38	5.stv2_debug.elf
+Finished building: default.size.stdout
+ 
+
+20:53:25 Build Finished. 0 errors, 0 warnings. (took 355ms)
+

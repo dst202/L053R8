@@ -1,0 +1,10 @@
+13:39:58 **** Incremental Build of configuration Debug for project 3.gpio_input_push_led ****
+make -j12 all 
+arm-none-eabi-size  3.gpio_input_push_led.elf 
+   text	   data	    bss	    dec	    hex	filename
+  10168	     12	   1708	  11888	   2e70	3.gpio_input_push_led.elf
+Finished building: default.size.stdout
+ 
+
+13:39:58 Build Finished. 0 errors, 0 warnings. (took 362ms)
+
